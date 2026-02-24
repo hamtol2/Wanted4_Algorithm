@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BubbleSort", "BubbleSort\Bu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelectionSort", "SelectionSort\SelectionSort.vcxproj", "{08260EF5-7C98-457B-8D2B-CC58F62D7E55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionSort", "InsertionSort\InsertionSort.vcxproj", "{759EA6A6-10CB-475F-8D0E-B374BF56637C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,10 @@ Global
 		{08260EF5-7C98-457B-8D2B-CC58F62D7E55}.Debug|x64.Build.0 = Debug|x64
 		{08260EF5-7C98-457B-8D2B-CC58F62D7E55}.Release|x64.ActiveCfg = Release|x64
 		{08260EF5-7C98-457B-8D2B-CC58F62D7E55}.Release|x64.Build.0 = Release|x64
+		{759EA6A6-10CB-475F-8D0E-B374BF56637C}.Debug|x64.ActiveCfg = Debug|x64
+		{759EA6A6-10CB-475F-8D0E-B374BF56637C}.Debug|x64.Build.0 = Debug|x64
+		{759EA6A6-10CB-475F-8D0E-B374BF56637C}.Release|x64.ActiveCfg = Release|x64
+		{759EA6A6-10CB-475F-8D0E-B374BF56637C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
