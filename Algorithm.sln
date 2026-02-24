@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.37012.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearch\BinarySearch.vcxproj", "{16C13BBE-6E4D-422E-BF57-E33153818243}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random", "Random\Random.vcxproj", "{B5E2C1D4-36FD-46FE-B30D-74A32CDF0922}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{16C13BBE-6E4D-422E-BF57-E33153818243}.Debug|x64.Build.0 = Debug|x64
 		{16C13BBE-6E4D-422E-BF57-E33153818243}.Release|x64.ActiveCfg = Release|x64
 		{16C13BBE-6E4D-422E-BF57-E33153818243}.Release|x64.Build.0 = Release|x64
+		{B5E2C1D4-36FD-46FE-B30D-74A32CDF0922}.Debug|x64.ActiveCfg = Debug|x64
+		{B5E2C1D4-36FD-46FE-B30D-74A32CDF0922}.Debug|x64.Build.0 = Debug|x64
+		{B5E2C1D4-36FD-46FE-B30D-74A32CDF0922}.Release|x64.ActiveCfg = Release|x64
+		{B5E2C1D4-36FD-46FE-B30D-74A32CDF0922}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
